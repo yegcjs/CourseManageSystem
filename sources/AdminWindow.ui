@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>AdminWindow</class>
+ <widget class="QWidget" name="AdminWindow" >
+  <property name="objectName" >
+   <string notr="true">AdminWindow</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>AdminWindow</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>
