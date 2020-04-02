@@ -43,7 +43,7 @@ Update:
 
 格式为`studentName,password[SHA256]\n`
 
-![image-20200401224922424](\img\image-20200401224922424.png)
+![image-20200401224922424](img\image-20200401224922424.png)
 
 ### currentcourse.txt/defaultcourse.txt
 
