@@ -1,0 +1,15 @@
+030	Null
+050	Null
+071	Null
+076	Null
+126	Null
+133	Null
+149	Null
+160	Null
+163	Null
+315	Null
+354	Null
+413	Null
+496	Null
+544	Null
+562	Null

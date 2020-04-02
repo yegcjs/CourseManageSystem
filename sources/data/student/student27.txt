@@ -1,0 +1,14 @@
+049	Null
+097	Null
+132	Null
+145	Null
+174	Null
+269	Null
+317	Null
+372	Null
+380	Null
+433	Null
+459	Null
+541	Null
+549	Null
+598	Null

@@ -1,0 +1,15 @@
+014	Null
+063	Null
+080	Null
+165	Null
+199	Null
+247	Null
+250	Null
+376	Null
+382	Null
+401	Null
+431	Null
+489	Null
+491	Null
+528	Null
+617	Null

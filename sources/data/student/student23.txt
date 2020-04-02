@@ -1,0 +1,15 @@
+010	Null
+024	Null
+049	Null
+144	Null
+171	Null
+190	Null
+201	Null
+249	Null
+344	Null
+395	Null
+404	Null
+476	Null
+555	Null
+585	Null
+624	Null

@@ -1,0 +1,15 @@
+010	Null
+012	Null
+064	Null
+200	Null
+313	Null
+323	Null
+345	Null
+360	Null
+371	Null
+373	Null
+415	Null
+515	Null
+585	Null
+599	Null
+645	Null

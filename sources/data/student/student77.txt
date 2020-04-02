@@ -1,0 +1,15 @@
+073	Null
+180	Null
+183	Null
+241	Null
+293	Null
+334	Null
+356	Null
+380	Null
+444	Null
+445	Null
+480	Null
+492	Null
+498	Null
+555	Null
+598	Null

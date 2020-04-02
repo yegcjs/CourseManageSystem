@@ -1,0 +1,15 @@
+004	Null
+021	Null
+042	Null
+062	Null
+071	Null
+082	Null
+102	Null
+119	Null
+143	Null
+251	Null
+313	Null
+325	Null
+396	Null
+399	Null
+474	Null

@@ -1,0 +1,15 @@
+017	Null
+105	Null
+135	Null
+139	Null
+205	Null
+236	Null
+242	Null
+272	Null
+300	Null
+357	Null
+430	Null
+517	Null
+562	Null
+578	Null
+617	Null

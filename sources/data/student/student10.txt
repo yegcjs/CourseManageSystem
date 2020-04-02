@@ -1,0 +1,15 @@
+009	Null
+084	Null
+217	Null
+240	Null
+254	Null
+327	Null
+355	Null
+373	Null
+380	Null
+411	Null
+414	Null
+487	Null
+574	Null
+582	Null
+589	Null
